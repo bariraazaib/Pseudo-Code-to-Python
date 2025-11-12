@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+datasets
+evaluate
+codebleu
+peft
+accelerate
+scikit-learn
+pandas
+numpy
+gradio
