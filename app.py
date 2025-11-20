@@ -352,6 +352,6 @@ st.markdown("---")
 st.markdown("""
 <div class="footer">
     <strong>Built with 🐍 Python + Streamlit</strong><br>
-    Model by <a href="https://huggingface.co/mustehsannisarrao" target="_blank" style="color: #667eea;">mustehsannisarrao</a>
+    Model by <a href="https://huggingface.co/mustehsannisarrao" target="_blank" style="color: #667eea;">barirazaib</a>
 </div>
 """, unsafe_allow_html=True)
